@@ -1,0 +1,52 @@
+#+title: Living In Perseus
+#+FILETAGS: :work:
+* TODO "Living in Perseus" [0%]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+** TODO plan "Living in Perseus" [0/6]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+*** TODO capture your thoughts on "Living in Perseus" :think:@computer:
+:PROPERTIES:
+:EFFORT:   8min
+:END:
+**** questions to ask during an initial project brainstorm
+***** what is my goal or intention?
+***** what do I already know about this project?
+***** what don't I know that I need to find out?
+***** what can I read or listen to for relevant ideas?
+***** who can I talk to who might provide insights?
+*** TODO search for notes related to "Living in Perseus" and dump them into the "basket" :@computer:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+**** make sure to scour the project archives as well
+*** TODO consolidate the basket of "Living in Perseus" into a component outline :think:@computer:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+
+*** TODO break down the components of "Living in Perseus" into smaller ones :think:@computer:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+
+*** TODO sketch out tasks of "Living in Perseus" :flow:@computer:
+:PROPERTIES:
+:EFFORT:   15min
+:END:
+
+** TODO finish "Living in Perseus" [0/1]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+*** TODO review my project for packets of work that I could reuse :@computer:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
+*** TODO review my project to see what went right and what went wrong :@computer:
+:PROPERTIES:
+:EFFORT:   5min
+:END:
