@@ -1,12 +1,12 @@
 #+title: Living In Perseus
 #+FILETAGS: :work:
-* TODO "Living in Perseus" [0%]
+* TODO "Living in Perseus" [33%]
 :PROPERTIES:
 :ORDERED:  t
 :END:
 ** what is my goal or intention?
 write a story that illustrates the general "vibe" of the Perseus Princes
-** TODO plan "Living in Perseus" [3/5]
+** DONE plan "Living in Perseus" [5/5]
 :PROPERTIES:
 :ORDERED:  t
 :END:
@@ -42,45 +42,215 @@ CLOCK: [2025-06-16 Mon 14:58]--[2025-06-16 Mon 15:00] =>  0:02
 CLOCK: [2025-06-16 Mon 14:56]--[2025-06-16 Mon 14:58] =>  0:02
 :END:
 
-*** TODO break down the components of "Living in Perseus" into smaller ones :think:@computer:
+*** DONE break down the components of "Living in Perseus" into smaller ones :think:@computer:
 :PROPERTIES:
 :EFFORT:   10min
 :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-16 Mon 15:07]
+CLOCK: [2025-06-16 Mon 15:02]--[2025-06-16 Mon 15:07] =>  0:05
+CLOCK: [2025-06-16 Mon 15:01]--[2025-06-16 Mon 15:02] =>  0:01
+:END:
 
-*** TODO sketch out tasks of "Living in Perseus" :flow:@computer:
+*** DONE sketch out tasks of "Living in Perseus" :flow:@computer:
 :PROPERTIES:
 :EFFORT:   15min
 :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-16 Mon 15:07]
+:END:
 
-** TODO components [0/2]
+** TODO components [0/19]
 :PROPERTIES:
 :ORDERED:  t
 :END:
-*** research [/]
-**** research how to write a short vignette to illustrate something [/]
-**** research how to write plant characters (or aliens in general )[/]
+*** TODO research [0/2]
+**** TODO research how to write a short vignette to illustrate something [0/1]
+***** TODO look online for and take notes on how to write a short vignette to illustrate something :@computer:@internet:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+**** TODO research how to write plant characters (or aliens in general )[/]
+***** TODO look online for and take notes on how to write alien characters - and plant characters specifically :@computer:@internet:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
 *** TODO discuss it on the forum :@internet:
 *** WAIT wait until I have three ideas from the forum
-*** characters [/]
-**** Cech-Vista [/]
-*** plot [/]
-**** goal [/]
-**** obstacle [/]
-**** idk [/]
-*** outline [/]
-*** first draft [/]
-*** feedback (1) [/]
-*** revision (1) [/]
-*** feedback (2) [/]
-*** revision (2) [/]
-*** feedback (3) [/]
-*** revision (3) [/]
-*** feedback (4) [/]
-*** revision (4) [/]
-*** feedback (5) [/]
-*** revision (5) [/]
-*** feedback (6) [/]
-*** revision (6) [/]
+*** TODO characters [0/1]
+**** TODO Cech-Vista [0/2]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+***** TODO brainstorm what Cech-Vista is physically, socially, and personally - let the ideas flow! :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   15min
+:END:
+***** TODO clean up the ideas that I've come up with :@computer:think:convg:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+*** TODO plot [0/2]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+**** TODO write what happens in this plot :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   15min
+:END:
+**** TODO clean up the lot :@computer:think:convg:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+*** TODO outline [0/2]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+**** TODO using the plot and characters, write an outline of what happens :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+**** TODO clean up the outline :@computer:think:convg:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+*** TODO first draft [0/1]
+**** TODO write the first draft :@computer:think:divg:
+:PROPERTIES:
+:EFFORT:   20min
+:END:
+*** TODO feedback (1) [0/2]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+**** TODO post the draft on the OA forum :@internet:
+**** WAIT wait for three pieces of feedback
+*** TODO revision (1) [0/3]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+**** TODO read the draft casually and comment on it - do not edit! :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+**** TODO write editing actions on the draft using my feedback and other's :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+**** TODO edit the draft :@computer:think:convg:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+*** TODO feedback (2) [/]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+**** TODO post the draft on the OA forum :@internet:
+**** WAIT wait for three pieces of feedback
+*** TODO revision (2) [/]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+**** TODO read the draft casually and comment on it - do not edit! :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+**** TODO write editing actions on the draft using my feedback and other's :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+**** TODO edit the draft :@computer:think:convg:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+*** TODO feedback (3) [/]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+**** TODO post the draft on the OA forum :@internet:
+**** WAIT wait for three pieces of feedback
+*** TODO revision (3) [/]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+**** TODO read the draft casually and comment on it - do not edit! :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+**** TODO write editing actions on the draft using my feedback and other's :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+**** TODO edit the draft :@computer:think:convg:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+*** TODO feedback (4) [/]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+**** TODO post the draft on the OA forum :@internet:
+**** WAIT wait for three pieces of feedback
+*** TODO revision (4) [/]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+**** TODO read the draft casually and comment on it - do not edit! :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+**** TODO write editing actions on the draft using my feedback and other's :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+**** TODO edit the draft :@computer:think:convg:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+*** TODO feedback (5) [/]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+**** TODO post the draft on the OA forum :@internet:
+**** WAIT wait for three pieces of feedback
+*** TODO revision (5) [/]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+**** TODO read the draft casually and comment on it - do not edit! :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+**** TODO write editing actions on the draft using my feedback and other's :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+**** TODO edit the draft :@computer:think:convg:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+*** TODO feedback (6) [/]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+**** TODO post the draft on the OA forum :@internet:
+**** WAIT wait for three pieces of feedback
+*** TODO revision (6) [/]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+**** TODO read the draft casually and comment on it - do not edit! :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+**** TODO write editing actions on the draft using my feedback and other's :@computer:think:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
+**** TODO edit the draft :@computer:think:convg:
+:PROPERTIES:
+:EFFORT:   10min
+:END:
 ** TODO finish "Living in Perseus" [0/1]
 :PROPERTIES:
 :ORDERED:  t
