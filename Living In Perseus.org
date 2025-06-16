@@ -4,79 +4,9 @@
 :PROPERTIES:
 :ORDERED:  t
 :END:
-** basket
-*** what is my goal or intention?
+** what is my goal or intention?
 write a story that illustrates the general "vibe" of the Perseus Princes
-*** what do I already know about this project?
-- process of writing this
-  - forum discussion (three ideas, at least!)
-  - outline
-    - plot outline
-    - draft outline
-  - first draft
-  - feedback
-  - revision
-  - feedback
-  - revision
-  - feedback
-  - revision
-  - feedback
-  - revision
-  - feedback
-  - revision
-  - feedback
-  - revision
-- characters
-  - Cech-Vista
-    - physical
-      - species: Violetstalk
-      - sex: N
-      - gender: F
-      - orientation: *
-      - appearance
-        - three violet bamboos sticking out of soil in a wooden flower pot, which in turn has four robotic legs and two robotic arms.
-        - fungi in the soil that just barely sticks out, and has a few "maws" for "eating" food.
-        - fruits on Cech-Vista
-    - social
-      - nationality: Foristr
-        - Foristr is a polity of plant provolves
-        - would that Gyrantix system be fitting for this?
-      - family
-        - parents
-          - Bach-Vista
-            - the one with the male flower, although te temself is N.
-          - Astra-Vista
-            - the one with the female flower, although te temself is N.
-        - siblings
-        - cousins
-        - children: N/A
-      - friends
-      - communities (and role in them)
-        - Xthi: a community dedicated to creating mathematical art of all varieties
-        - Perseus Principalities
-    - personal
-      - interests
-        - GeoArt
-        - ChemoArt
-        - MathArt
-        - spaceship maintenance
-      - goals
-        - learn a bit more about the universe
-      - loves
-        -
-      - hates
-        - 
-- plot
-  - premise: traveller who takes an informal "pilgrimage" to the capitals of the Perseus Princes learns diversity and enlightenment
-- writing
-  - unities
-    - first-person
-    - casual, lighthearted, and reverent tone
-    - written as if this was an article on a Known Net blog
-*** what don't I know that I need to find out?
-*** what can I read or listen to for relevant ideas?
-*** who can I talk to who might provide insights?
-** TODO plan "Living in Perseus" [1/5]
+** TODO plan "Living in Perseus" [3/5]
 :PROPERTIES:
 :ORDERED:  t
 :END:
@@ -94,14 +24,22 @@ CLOCK: [2025-06-16 Mon 14:47]--[2025-06-16 Mon 14:55] =>  0:08
 ***** what don't I know that I need to find out?
 ***** what can I read or listen to for relevant ideas?
 ***** who can I talk to who might provide insights?
-*** TODO search for notes related to "Living in Perseus" and dump them into the "basket" :@computer:
+*** DONE search for notes related to "Living in Perseus" and dump them into the "basket" :@computer:
 :PROPERTIES:
 :EFFORT:   5min
 :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-16 Mon 14:56]
+:END:
 **** make sure to scour the project archives as well
-*** TODO consolidate the basket of "Living in Perseus" into a component outline :think:@computer:
+*** DONE consolidate the basket of "Living in Perseus" into a component outline :think:@computer:
 :PROPERTIES:
 :EFFORT:   5min
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-16 Mon 15:00]
+CLOCK: [2025-06-16 Mon 14:58]--[2025-06-16 Mon 15:00] =>  0:02
+CLOCK: [2025-06-16 Mon 14:56]--[2025-06-16 Mon 14:58] =>  0:02
 :END:
 
 *** TODO break down the components of "Living in Perseus" into smaller ones :think:@computer:
@@ -114,6 +52,35 @@ CLOCK: [2025-06-16 Mon 14:47]--[2025-06-16 Mon 14:55] =>  0:08
 :EFFORT:   15min
 :END:
 
+** TODO components [0/2]
+:PROPERTIES:
+:ORDERED:  t
+:END:
+*** research [/]
+**** research how to write a short vignette to illustrate something [/]
+**** research how to write plant characters (or aliens in general )[/]
+*** TODO discuss it on the forum :@internet:
+*** WAIT wait until I have three ideas from the forum
+*** characters [/]
+**** Cech-Vista [/]
+*** plot [/]
+**** goal [/]
+**** obstacle [/]
+**** idk [/]
+*** outline [/]
+*** first draft [/]
+*** feedback (1) [/]
+*** revision (1) [/]
+*** feedback (2) [/]
+*** revision (2) [/]
+*** feedback (3) [/]
+*** revision (3) [/]
+*** feedback (4) [/]
+*** revision (4) [/]
+*** feedback (5) [/]
+*** revision (5) [/]
+*** feedback (6) [/]
+*** revision (6) [/]
 ** TODO finish "Living in Perseus" [0/1]
 :PROPERTIES:
 :ORDERED:  t

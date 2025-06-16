@@ -1,0 +1,40 @@
+#+title: Characters
+- Cech-Vista
+  - physical
+    - species: Violetstalk
+    - sex: N
+    - gender: F
+    - orientation: *
+    - appearance
+      - three violet bamboos sticking out of soil in a wooden flower pot, which in turn has four robotic legs and two robotic arms.
+      - fungi in the soil that just barely sticks out, and has a few "maws" for "eating" food.
+      - fruits on Cech-Vista
+  - social
+    - nationality: Foristr
+      - Foristr is a polity of plant provolves
+      - would that Gyrantix system be fitting for this?
+    - family
+      - parents
+        - Bach-Vista
+          - the one with the male flower, although te temself is N.
+        - Astra-Vista
+          - the one with the female flower, although te temself is N.
+      - siblings
+      - cousins
+      - children: N/A
+    - friends
+    - communities (and role in them)
+      - Xthi: a community dedicated to creating mathematical art of all varieties
+      - Perseus Principalities
+  - personal
+    - interests
+      - GeoArt
+      - ChemoArt
+      - MathArt
+      - spaceship maintenance
+    - goals
+      - learn a bit more about the universe
+    - loves
+      -
+    - hates
+      -

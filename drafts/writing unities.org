@@ -1,0 +1,5 @@
+#+title: Writing Unities
+- unities
+  - first-person
+  - casual, lighthearted, and reverent tone
+  - written as if this was an article on a Known Net blog
