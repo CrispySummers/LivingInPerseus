@@ -4,13 +4,89 @@
 :PROPERTIES:
 :ORDERED:  t
 :END:
-** TODO plan "Living in Perseus" [0/6]
+** basket
+*** what is my goal or intention?
+write a story that illustrates the general "vibe" of the Perseus Princes
+*** what do I already know about this project?
+- process of writing this
+  - forum discussion (three ideas, at least!)
+  - outline
+    - plot outline
+    - draft outline
+  - first draft
+  - feedback
+  - revision
+  - feedback
+  - revision
+  - feedback
+  - revision
+  - feedback
+  - revision
+  - feedback
+  - revision
+  - feedback
+  - revision
+- characters
+  - Cech-Vista
+    - physical
+      - species: Violetstalk
+      - sex: N
+      - gender: F
+      - orientation: *
+      - appearance
+        - three violet bamboos sticking out of soil in a wooden flower pot, which in turn has four robotic legs and two robotic arms.
+        - fungi in the soil that just barely sticks out, and has a few "maws" for "eating" food.
+        - fruits on Cech-Vista
+    - social
+      - nationality: Foristr
+        - Foristr is a polity of plant provolves
+        - would that Gyrantix system be fitting for this?
+      - family
+        - parents
+          - Bach-Vista
+            - the one with the male flower, although te temself is N.
+          - Astra-Vista
+            - the one with the female flower, although te temself is N.
+        - siblings
+        - cousins
+        - children: N/A
+      - friends
+      - communities (and role in them)
+        - Xthi: a community dedicated to creating mathematical art of all varieties
+        - Perseus Principalities
+    - personal
+      - interests
+        - GeoArt
+        - ChemoArt
+        - MathArt
+        - spaceship maintenance
+      - goals
+        - learn a bit more about the universe
+      - loves
+        -
+      - hates
+        - 
+- plot
+  - premise: traveller who takes an informal "pilgrimage" to the capitals of the Perseus Princes learns diversity and enlightenment
+- writing
+  - unities
+    - first-person
+    - casual, lighthearted, and reverent tone
+    - written as if this was an article on a Known Net blog
+*** what don't I know that I need to find out?
+*** what can I read or listen to for relevant ideas?
+*** who can I talk to who might provide insights?
+** TODO plan "Living in Perseus" [1/5]
 :PROPERTIES:
 :ORDERED:  t
 :END:
-*** TODO capture your thoughts on "Living in Perseus" :think:@computer:
+*** DONE capture your thoughts on "Living in Perseus" :think:@computer:
 :PROPERTIES:
 :EFFORT:   8min
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2025-06-16 Mon 14:55]
+CLOCK: [2025-06-16 Mon 14:47]--[2025-06-16 Mon 14:55] =>  0:08
 :END:
 **** questions to ask during an initial project brainstorm
 ***** what is my goal or intention?
